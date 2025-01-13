@@ -4,8 +4,7 @@
 Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata Kuliah Praktikum Website dengan basis Frontend  dan Backend
 
 <p align="center">
-    <img src="assets/Vuejs.svg" width="100" > 
-    <img src="assets/Laravel.svg" width="100>
+    <img src="assets/Vuejs.svg" width="100">
 </p>
 
 ## Environment Variables
