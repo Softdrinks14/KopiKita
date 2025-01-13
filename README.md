@@ -8,8 +8,6 @@ Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata
     <img src="assets/Laravel.svg" width="100>
 </p>
 
-
-
 ## Environment Variables
 
 - Step Pertama :
