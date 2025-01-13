@@ -6,6 +6,9 @@ Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata
 <p align="center">
     <img src="assets/Vuejs.svg" width="100">
 </p>
+<p align="center">
+    <img src="assets/Laravel.svg" width="100">
+</p>
 
 ## Environment Variables
 
