@@ -27,10 +27,10 @@ Buka file .env lalu modifikasi file yang ada di dalam sesuai localhost atau data
 
 `DB_COLLATION=utf8mb4_unicode_ci`
 
-# Folder
+## Folder
 Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
 
-# Backend
+## Backend
 
 Lalu buka jalankan code dibawah
 ```bash
@@ -48,7 +48,7 @@ Sebelum step kedua silahkan jalankan command dibawah
 php artisan storage:link
 ```
 
-# Frontend
+## Frontend
 Langsung jalankan code dibawah
 ```bash
 npm run dev
@@ -67,7 +67,7 @@ php artisan db:seed UserSeeder
 ```
 Setelah itu coba untuk login menggunakan user yang sudah dibuat, saya menyarankan untuk membuat user admin terlebih dahulu agar bisa menambahkan item untuk ditampilkan
 
-# CONTRIBUTING
+## CONTRIBUTING
 
 [Rahmatullah Akbar Prima](https://github.com/Arabmeme) sebagai FRONTEND
 
