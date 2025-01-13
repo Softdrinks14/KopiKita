@@ -34,6 +34,7 @@ Lalu buka jalankan code dibawah
 ```bash
 php artisan migrate
 ```
+
 # Folder
 Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
 
