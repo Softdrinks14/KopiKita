@@ -1,3 +1,4 @@
+
 # Kopi Kita
 
 Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata Kuliah Praktikum Website dengan basis Frontend  dan Backend
@@ -8,28 +9,35 @@ Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata
 </p>
 
 
-# Folder
-Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
 
-# Backend
+## Environment Variables
+
 - Step Pertama :
 Buka file .env lalu modifikasi file yang ada di dalam sesuai localhost atau database 
 
-```bash
-DB_CONNECTION=mysql
-DB_HOST=127.0.0.1
-DB_PORT=3306
-DB_DATABASE=projectfinal
-DB_USERNAME=root
-DB_PASSWORD=
-DB_COLLATION=utf8mb4_unicode_ci
-```
-Replace pada DATABASE
+`DB_CONNECTION=mysql`
+
+`DB_HOST=127.0.0.1`
+
+`DB_PORT=3306`
+
+`DB_DATABASE=projectfinal`
+
+`DB_USERNAME=root`
+
+`DB_PASSWORD=`
+
+`DB_COLLATION=utf8mb4_unicode_ci`
+
 
 Lalu buka jalankan code dibawah
 ```bash
 php artisan migrate
 ```
+# Folder
+Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
+
+# Backend
 
 - Step Kedua : 
 Jalankan code dibawah ini
