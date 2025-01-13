@@ -3,13 +3,6 @@
 
 Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata Kuliah Praktikum Website dengan basis Frontend  dan Backend
 
-<p align="center">
-    <img src="assets/Vuejs.svg" width="100">
-</p>
-<p align="center">
-    <img src="assets/Laravel.svg" width="100">
-</p>
-
 ## Environment Variables
 
 - Step Pertama :
@@ -74,3 +67,9 @@ Setelah itu coba untuk login menggunakan user yang sudah dibuat, saya menyaranka
 [Rahmatullah Akbar Prima](https://github.com/Arabmeme) sebagai FRONTEND
 
 [Hisyam Bima Ekhsantama](https://github.com/Softdrinks14) Sebagai BACKEND
+
+<p align="center">
+    <img src="assets/Vuejs.svg" width="100">
+    <img src="assets/Laravel.svg" width="100">
+</p>
+
