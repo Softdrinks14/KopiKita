@@ -8,8 +8,6 @@ Sebuah project pemesanan kopi online yang dibuat untuk memenuhi tugas besar Mata
     <img src="assets/Laravel.svg" width="100>
 </p>
 
-
-
 ## Environment Variables
 
 - Step Pertama :
@@ -29,16 +27,15 @@ Buka file .env lalu modifikasi file yang ada di dalam sesuai localhost atau data
 
 `DB_COLLATION=utf8mb4_unicode_ci`
 
+# Folder
+Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
+
+# Backend
 
 Lalu buka jalankan code dibawah
 ```bash
 php artisan migrate
 ```
-
-# Folder
-Folder terdiri dari frontend dan backend untuk mengaktifkan harus melalui localhost 
-
-# Backend
 
 - Step Kedua : 
 Jalankan code dibawah ini
